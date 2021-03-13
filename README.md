@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r0busta
+- 👋 Hi, I’m Kirill (@r0busta)
 - 👀 I’m interested in building headless front-ends for Shopify stores
 - 🌱 I’m currently learning React and GraphQL
 - 💞️ I’m looking to collaborate on building solutions and tools for Shopify
