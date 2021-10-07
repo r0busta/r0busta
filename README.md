@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill (@r0busta)
-- 👀 I’m interested in building headless front-ends for Shopify stores
+- 👀 I’m interested in building cloud native solutions
 - 🌱 I’m currently learning React and GraphQL
-- 💞️ I’m looking to collaborate on building solutions and tools for Shopify
+- 💞️ I’m looking to collaborate on building cloud native solutions and tools
 - 📫 How to reach me: ping[dot]kirill[at]gmail[dot]com
