@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill (@r0busta)
-- 👀 I’m interested in building cloud native solutions
+- 👀 I’m interested in building cloud native solutions to common business problems
 - 🌱 I’m currently learning React and GraphQL
-- 💞️ I’m looking to collaborate on building cloud native solutions and tools
+- 💞️ I’m looking to collaborate on building cloud native software and tools
 - 📫 How to reach me: ping[dot]kirill[at]gmail[dot]com
